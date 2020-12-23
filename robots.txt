@@ -1,0 +1,17 @@
+User-agent: *
+Allow: /
+Allow: /archives/
+Allow: /categories/
+Allow: /tags/
+Allow: /gallery
+Allow: /about
+Allow: /friends
+
+Disallow: /libs/
+Disallow: /js/
+Disallow: /css/
+Disallow: /medias/
+Disallow: /fancybox/
+
+Sitemap: https://52chang.wang/sitemap.xml
+Sitemap: https://52chang.wang/baidusitemap.xml

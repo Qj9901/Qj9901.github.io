@@ -1,0 +1,563 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>长弓不是弓长</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://www.52chang.wang/"/>
+  <id>https://www.52chang.wang/</id>
+  <updated>2020-12-23T09:07:50.981Z</updated>
+  
+  <author>
+    <name>阿长啊</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Epic免费领取永久《GTA5》</title>
+    <link href="https://www.52chang.wang/post/18143.html"/>
+    <id>https://www.52chang.wang/post/18143.html</id>
+    <published>2020-05-15T14:12:43.000Z</published>
+    <updated>2020-12-23T09:07:50.981Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+	    
+    
+    <category term="免费活动" scheme="https://www.52chang.wang/categories/%E5%85%8D%E8%B4%B9%E6%B4%BB%E5%8A%A8/"/>
+    
+    
+    <category term="免费" scheme="https://www.52chang.wang/tags/%E5%85%8D%E8%B4%B9/"/>
+    
+    <category term="白嫖" scheme="https://www.52chang.wang/tags/%E7%99%BD%E5%AB%96/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Windows Linux 子系统自定义安装路径</title>
+    <link href="https://www.52chang.wang/post/9490.html"/>
+    <id>https://www.52chang.wang/post/9490.html</id>
+    <published>2020-04-20T17:21:32.000Z</published>
+    <updated>2020-12-23T09:07:50.981Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+	    
+    
+    <category term="记录" scheme="https://www.52chang.wang/categories/%E8%AE%B0%E5%BD%95/"/>
+    
+    <category term="Windows" scheme="https://www.52chang.wang/categories/%E8%AE%B0%E5%BD%95/Windows/"/>
+    
+    
+    <category term="WSL" scheme="https://www.52chang.wang/tags/WSL/"/>
+    
+    <category term="Windows" scheme="https://www.52chang.wang/tags/Windows/"/>
+    
+    <category term="LxRunOf­fline" scheme="https://www.52chang.wang/tags/LxRunOf%C2%ADfline/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Powershell 中文乱码</title>
+    <link href="https://www.52chang.wang/post/54075.html"/>
+    <id>https://www.52chang.wang/post/54075.html</id>
+    <published>2020-04-17T11:59:41.000Z</published>
+    <updated>2020-12-23T09:07:50.981Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+	    
+    
+    <category term="记录" scheme="https://www.52chang.wang/categories/%E8%AE%B0%E5%BD%95/"/>
+    
+    <category term="Windows" scheme="https://www.52chang.wang/categories/%E8%AE%B0%E5%BD%95/Windows/"/>
+    
+    
+    <category term="Powershell" scheme="https://www.52chang.wang/tags/Powershell/"/>
+    
+    <category term="乱码" scheme="https://www.52chang.wang/tags/%E4%B9%B1%E7%A0%81/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>GitHub Pages 被中间人攻击</title>
+    <link href="https://www.52chang.wang/post/26954.html"/>
+    <id>https://www.52chang.wang/post/26954.html</id>
+    <published>2020-03-26T23:22:01.000Z</published>
+    <updated>2020-12-23T09:07:50.981Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+	    
+    
+    <category term="闲谈" scheme="https://www.52chang.wang/categories/%E9%97%B2%E8%B0%88/"/>
+    
+    
+    <category term="闲谈" scheme="https://www.52chang.wang/tags/%E9%97%B2%E8%B0%88/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Markdown转Doc</title>
+    <link href="https://www.52chang.wang/post/50104.html"/>
+    <id>https://www.52chang.wang/post/50104.html</id>
+    <published>2020-03-25T11:25:26.000Z</published>
+    <updated>2020-03-25T11:25:26.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+	    
+    
+    <category term="记录" scheme="https://www.52chang.wang/categories/%E8%AE%B0%E5%BD%95/"/>
+    
+    <category term="折腾" scheme="https://www.52chang.wang/categories/%E8%AE%B0%E5%BD%95/%E6%8A%98%E8%85%BE/"/>
+    
+    
+    <category term="markdown to docx" scheme="https://www.52chang.wang/tags/markdown-to-docx/"/>
+    
+    <category term="记录" scheme="https://www.52chang.wang/tags/%E8%AE%B0%E5%BD%95/"/>
+    
+    <category term="pandoc" scheme="https://www.52chang.wang/tags/pandoc/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Python3实现自动签到</title>
+    <link href="https://www.52chang.wang/post/16912.html"/>
+    <id>https://www.52chang.wang/post/16912.html</id>
+    <published>2020-03-18T19:01:13.000Z</published>
+    <updated>2020-12-23T09:07:50.981Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+	    
+    
+    <category term="学习" scheme="https://www.52chang.wang/categories/%E5%AD%A6%E4%B9%A0/"/>
+    
+    <category term="python" scheme="https://www.52chang.wang/categories/%E5%AD%A6%E4%B9%A0/python/"/>
+    
+    
+    <category term="签到" scheme="https://www.52chang.wang/tags/%E7%AD%BE%E5%88%B0/"/>
+    
+    <category term="python" scheme="https://www.52chang.wang/tags/python/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>GitHub Coding Pages 自动部署 Hexo</title>
+    <link href="https://www.52chang.wang/post/28678.html"/>
+    <id>https://www.52chang.wang/post/28678.html</id>
+    <published>2020-03-16T11:25:26.000Z</published>
+    <updated>2020-03-16T11:25:26.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+	    
+    
+    <category term="记录" scheme="https://www.52chang.wang/categories/%E8%AE%B0%E5%BD%95/"/>
+    
+    <category term="折腾" scheme="https://www.52chang.wang/categories/%E8%AE%B0%E5%BD%95/%E6%8A%98%E8%85%BE/"/>
+    
+    <category term="blog" scheme="https://www.52chang.wang/categories/%E8%AE%B0%E5%BD%95/%E6%8A%98%E8%85%BE/blog/"/>
+    
+    <category term="hexo" scheme="https://www.52chang.wang/categories/%E8%AE%B0%E5%BD%95/%E6%8A%98%E8%85%BE/blog/hexo/"/>
+    
+    
+    <category term="记录" scheme="https://www.52chang.wang/tags/%E8%AE%B0%E5%BD%95/"/>
+    
+    <category term="GitHub" scheme="https://www.52chang.wang/tags/GitHub/"/>
+    
+    <category term="自动部署" scheme="https://www.52chang.wang/tags/%E8%87%AA%E5%8A%A8%E9%83%A8%E7%BD%B2/"/>
+    
+    <category term="Coding" scheme="https://www.52chang.wang/tags/Coding/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Google Adsense申请小窍门，我的踩坑记录</title>
+    <link href="https://www.52chang.wang/post/14278.html"/>
+    <id>https://www.52chang.wang/post/14278.html</id>
+    <published>2020-03-02T23:35:26.000Z</published>
+    <updated>2020-03-02T23:35:26.000Z</updated>
+    
+    
+    <summary type="html">&lt;h1 id=&quot;how-to-apply-for-google-adsense&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#how-to-apply-for-google-adsense&quot;&gt;&lt;/a&gt; How to apply for Google-adsense&lt;/h1&gt;
+&lt;p&gt;今天登进我的google-adsense账户里一看。1.94刀，那种感觉真的是—一个字—太爽了&lt;br /&gt;
+&lt;img src=&quot;//cdn.jsdelivr.net/gh/Qj9901/CDN@0.0.2/blog/img/Google-ads-apply/ads.png&quot; alt=&quot;ads.png&quot; /&gt;&lt;br /&gt;
+下面就来一看我是怎么申请并通过的吧！&lt;/p&gt;</summary>
+    
+	    
+    
+    <category term="记录" scheme="https://www.52chang.wang/categories/%E8%AE%B0%E5%BD%95/"/>
+    
+    <category term="折腾" scheme="https://www.52chang.wang/categories/%E8%AE%B0%E5%BD%95/%E6%8A%98%E8%85%BE/"/>
+    
+    <category term="blog" scheme="https://www.52chang.wang/categories/%E8%AE%B0%E5%BD%95/%E6%8A%98%E8%85%BE/blog/"/>
+    
+    
+    <category term="记录" scheme="https://www.52chang.wang/tags/%E8%AE%B0%E5%BD%95/"/>
+    
+    <category term="Google Adsense" scheme="https://www.52chang.wang/tags/Google-Adsense/"/>
+    
+    <category term="谷歌联盟" scheme="https://www.52chang.wang/tags/%E8%B0%B7%E6%AD%8C%E8%81%94%E7%9B%9F/"/>
+    
+    <category term="ads" scheme="https://www.52chang.wang/tags/ads/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>git使用技巧（自用）</title>
+    <link href="https://www.52chang.wang/post/35909.html"/>
+    <id>https://www.52chang.wang/post/35909.html</id>
+    <published>2019-11-19T15:55:28.000Z</published>
+    <updated>2019-11-20T15:07:28.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+	    
+    
+    <category term="笔记" scheme="https://www.52chang.wang/categories/%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="记录" scheme="https://www.52chang.wang/tags/%E8%AE%B0%E5%BD%95/"/>
+    
+    <category term="git" scheme="https://www.52chang.wang/tags/git/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>The origins of Halloween</title>
+    <link href="https://www.52chang.wang/post/34560.html"/>
+    <id>https://www.52chang.wang/post/34560.html</id>
+    <published>2019-10-31T22:53:13.000Z</published>
+    <updated>2019-10-31T22:53:13.000Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;the-origins-of-halloween&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#the-origins-of-halloween&quot;&gt;&lt;/a&gt; The origins of Halloween&lt;/h2&gt;
+&lt;p&gt;Halloween has been around for more than a thousand years. Originally a religiousobservance, it became increasingly secular over the centuries until its religious trappings all but disappeared. Today Halloween is considered a holiday for dress-upand fun, especially for children.</summary>
+    
+	    
+    
+    <category term="学习" scheme="https://www.52chang.wang/categories/%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+    <category term="记录" scheme="https://www.52chang.wang/tags/%E8%AE%B0%E5%BD%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>安卓机建站大法</title>
+    <link href="https://www.52chang.wang/post/64353.html"/>
+    <id>https://www.52chang.wang/post/64353.html</id>
+    <published>2019-10-26T17:48:06.000Z</published>
+    <updated>2019-10-26T17:48:06.000Z</updated>
+    
+    
+    <summary type="html">&lt;h1 id=&quot;背景&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#背景&quot;&gt;&lt;/a&gt; 背景&lt;/h1&gt;
+&lt;p&gt;由于电脑突然坏了，手上正好有个Mipad2，那么安卓手机上能不能建hexo网站呢于是就有了这篇文章。</summary>
+    
+	    
+    
+    <category term="学习" scheme="https://www.52chang.wang/categories/%E5%AD%A6%E4%B9%A0/"/>
+    
+    <category term="折腾" scheme="https://www.52chang.wang/categories/%E5%AD%A6%E4%B9%A0/%E6%8A%98%E8%85%BE/"/>
+    
+    <category term="blog" scheme="https://www.52chang.wang/categories/%E5%AD%A6%E4%B9%A0/%E6%8A%98%E8%85%BE/blog/"/>
+    
+    
+    <category term="termux" scheme="https://www.52chang.wang/tags/termux/"/>
+    
+    <category term="建站" scheme="https://www.52chang.wang/tags/%E5%BB%BA%E7%AB%99/"/>
+    
+    <category term="写博客" scheme="https://www.52chang.wang/tags/%E5%86%99%E5%8D%9A%E5%AE%A2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>量子力学第二章</title>
+    <link href="https://www.52chang.wang/post/dfc0c8c7.html"/>
+    <id>https://www.52chang.wang/post/dfc0c8c7.html</id>
+    <published>2019-10-17T09:31:16.000Z</published>
+    <updated>2019-10-17T09:31:16.000Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;量子力学第二章&lt;/p&gt;</summary>
+    
+	    
+    
+    <category term="专业课" scheme="https://www.52chang.wang/categories/%E4%B8%93%E4%B8%9A%E8%AF%BE/"/>
+    
+    <category term="量子力学" scheme="https://www.52chang.wang/categories/%E4%B8%93%E4%B8%9A%E8%AF%BE/%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6/"/>
+    
+    
+    <category term="笔记" scheme="https://www.52chang.wang/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="学习" scheme="https://www.52chang.wang/tags/%E5%AD%A6%E4%B9%A0/"/>
+    
+    <category term="基础" scheme="https://www.52chang.wang/tags/%E5%9F%BA%E7%A1%80/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>hexo文章代码块美化</title>
+    <link href="https://www.52chang.wang/post/1648bd84.html"/>
+    <id>https://www.52chang.wang/post/1648bd84.html</id>
+    <published>2019-09-21T10:30:26.000Z</published>
+    <updated>2019-09-21T10:30:26.000Z</updated>
+    
+    
+    <summary type="html">&lt;h1 id=&quot;背景&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#背景&quot;&gt;&lt;/a&gt; 背景&lt;/h1&gt;
+&lt;p&gt;在美化hexo next主题的时候代码块的样式依旧很突兀，遂萌发了美化代码块的想法。说干咋就干。</summary>
+    
+	    
+    
+    <category term="学习" scheme="https://www.52chang.wang/categories/%E5%AD%A6%E4%B9%A0/"/>
+    
+    <category term="折腾" scheme="https://www.52chang.wang/categories/%E5%AD%A6%E4%B9%A0/%E6%8A%98%E8%85%BE/"/>
+    
+    
+    <category term="blog" scheme="https://www.52chang.wang/tags/blog/"/>
+    
+    <category term="hexo" scheme="https://www.52chang.wang/tags/hexo/"/>
+    
+    <category term="美化" scheme="https://www.52chang.wang/tags/%E7%BE%8E%E5%8C%96/"/>
+    
+    <category term="折腾" scheme="https://www.52chang.wang/tags/%E6%8A%98%E8%85%BE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>hexo文章外链模仿知乎卡片式链接</title>
+    <link href="https://www.52chang.wang/post/2802a56.html"/>
+    <id>https://www.52chang.wang/post/2802a56.html</id>
+    <published>2019-09-12T21:37:56.000Z</published>
+    <updated>2019-09-17T21:37:56.000Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;背景&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#背景&quot;&gt;&lt;/a&gt; 背景&lt;/h2&gt;
+&lt;p&gt;逛知乎时看见知乎上的卡片式分享链接，挺吸引我的，所谓不折腾不死，</summary>
+    
+	    
+    
+    <category term="学习" scheme="https://www.52chang.wang/categories/%E5%AD%A6%E4%B9%A0/"/>
+    
+    <category term="折腾" scheme="https://www.52chang.wang/categories/%E5%AD%A6%E4%B9%A0/%E6%8A%98%E8%85%BE/"/>
+    
+    
+    <category term="blog" scheme="https://www.52chang.wang/tags/blog/"/>
+    
+    <category term="hexo" scheme="https://www.52chang.wang/tags/hexo/"/>
+    
+    <category term="卡片链接" scheme="https://www.52chang.wang/tags/%E5%8D%A1%E7%89%87%E9%93%BE%E6%8E%A5/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>光电检测技术及应用-笔记</title>
+    <link href="https://www.52chang.wang/post/75dcaaae.html"/>
+    <id>https://www.52chang.wang/post/75dcaaae.html</id>
+    <published>2019-09-01T22:29:09.000Z</published>
+    <updated>2019-09-01T22:29:09.000Z</updated>
+    
+    
+    <summary type="html">&lt;h1 id=&quot;概念&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#概念&quot;&gt;&lt;/a&gt; 概念&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;光电检测技术：采用不同的手段获取信息，运用光电技术的方法来检验与处理信息，从而实现各种物理量和几何量的测量。</summary>
+    
+	    
+    
+    <category term="专业课" scheme="https://www.52chang.wang/categories/%E4%B8%93%E4%B8%9A%E8%AF%BE/"/>
+    
+    <category term="光电检测" scheme="https://www.52chang.wang/categories/%E4%B8%93%E4%B8%9A%E8%AF%BE/%E5%85%89%E7%94%B5%E6%A3%80%E6%B5%8B/"/>
+    
+    
+    <category term="笔记" scheme="https://www.52chang.wang/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>markdown 插入数学公式</title>
+    <link href="https://www.52chang.wang/post/4af10423.html"/>
+    <id>https://www.52chang.wang/post/4af10423.html</id>
+    <published>2019-08-23T17:51:38.000Z</published>
+    <updated>2019-08-23T17:51:38.000Z</updated>
+    
+    
+    <summary type="html">&lt;h1 id=&quot;在文本中插入数学公式&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#在文本中插入数学公式&quot;&gt;&lt;/a&gt; 在文本中插入数学公式&lt;/h1&gt;</summary>
+    
+	    
+    
+    <category term="学习" scheme="https://www.52chang.wang/categories/%E5%AD%A6%E4%B9%A0/"/>
+    
+    <category term="折腾" scheme="https://www.52chang.wang/categories/%E5%AD%A6%E4%B9%A0/%E6%8A%98%E8%85%BE/"/>
+    
+    <category term="blog" scheme="https://www.52chang.wang/categories/%E5%AD%A6%E4%B9%A0/%E6%8A%98%E8%85%BE/blog/"/>
+    
+    
+    <category term="markdown" scheme="https://www.52chang.wang/tags/markdown/"/>
+    
+    <category term="笔记" scheme="https://www.52chang.wang/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>基于leancloud的文章访客统计修复</title>
+    <link href="https://www.52chang.wang/post/aecd2f31.html"/>
+    <id>https://www.52chang.wang/post/aecd2f31.html</id>
+    <published>2019-08-19T21:08:22.000Z</published>
+    <updated>2019-08-19T21:08:22.000Z</updated>
+    
+    
+    <summary type="html">&lt;h3 id=&quot;背景&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#背景&quot;&gt;&lt;/a&gt; 背景&lt;/h3&gt;
+&lt;p&gt;在折腾添加leancloud的文章访客统计时，在站点页面显示为Counter not initialized! See more at console err msg.查阅资料寻得解决方案</summary>
+    
+	    
+    
+    <category term="学习" scheme="https://www.52chang.wang/categories/%E5%AD%A6%E4%B9%A0/"/>
+    
+    <category term="折腾" scheme="https://www.52chang.wang/categories/%E5%AD%A6%E4%B9%A0/%E6%8A%98%E8%85%BE/"/>
+    
+    
+    <category term="leancloud" scheme="https://www.52chang.wang/tags/leancloud/"/>
+    
+    <category term="访客" scheme="https://www.52chang.wang/tags/%E8%AE%BF%E5%AE%A2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>hexo博客添加相册功能</title>
+    <link href="https://www.52chang.wang/post/24981.html"/>
+    <id>https://www.52chang.wang/post/24981.html</id>
+    <published>2019-08-14T17:53:09.000Z</published>
+    <updated>2019-08-14T17:53:09.000Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;两周前开始，我就一直想在yilia主题下实现一个相册功能，终于让我找到一个好方法了。</summary>
+    
+	    
+    
+    <category term="学习" scheme="https://www.52chang.wang/categories/%E5%AD%A6%E4%B9%A0/"/>
+    
+    <category term="折腾" scheme="https://www.52chang.wang/categories/%E5%AD%A6%E4%B9%A0/%E6%8A%98%E8%85%BE/"/>
+    
+    
+    <category term="笔记" scheme="https://www.52chang.wang/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="hexo" scheme="https://www.52chang.wang/tags/hexo/"/>
+    
+    <category term="yilia" scheme="https://www.52chang.wang/tags/yilia/"/>
+    
+    <category term="相册" scheme="https://www.52chang.wang/tags/%E7%9B%B8%E5%86%8C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>用Gulp压缩hexo博客</title>
+    <link href="https://www.52chang.wang/post/25627.html"/>
+    <id>https://www.52chang.wang/post/25627.html</id>
+    <published>2019-08-12T23:31:48.000Z</published>
+    <updated>2019-08-12T23:31:48.000Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;在寻找怎么压缩hexo让网页载入更快时发现了一片新大陆~~&lt;/p&gt;</summary>
+    
+	    
+    
+    <category term="学习" scheme="https://www.52chang.wang/categories/%E5%AD%A6%E4%B9%A0/"/>
+    
+    <category term="折腾" scheme="https://www.52chang.wang/categories/%E5%AD%A6%E4%B9%A0/%E6%8A%98%E8%85%BE/"/>
+    
+    
+    <category term="blog" scheme="https://www.52chang.wang/tags/blog/"/>
+    
+    <category term="hexo" scheme="https://www.52chang.wang/tags/hexo/"/>
+    
+    <category term="gulp" scheme="https://www.52chang.wang/tags/gulp/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>hexo yilia主题添加主页及网页404</title>
+    <link href="https://www.52chang.wang/post/30152.html"/>
+    <id>https://www.52chang.wang/post/30152.html</id>
+    <published>2019-08-12T18:42:20.000Z</published>
+    <updated>2019-08-12T18:42:20.000Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;hexo yilia主题实现自定义主页以及404页面</summary>
+    
+	    
+    
+    <category term="学习" scheme="https://www.52chang.wang/categories/%E5%AD%A6%E4%B9%A0/"/>
+    
+    <category term="折腾" scheme="https://www.52chang.wang/categories/%E5%AD%A6%E4%B9%A0/%E6%8A%98%E8%85%BE/"/>
+    
+    
+    <category term="blog" scheme="https://www.52chang.wang/tags/blog/"/>
+    
+    <category term="hexo" scheme="https://www.52chang.wang/tags/hexo/"/>
+    
+    <category term="主页/404" scheme="https://www.52chang.wang/tags/%E4%B8%BB%E9%A1%B5-404/"/>
+    
+  </entry>
+  
+</feed>
